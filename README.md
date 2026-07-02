@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0013-roman-to-integer) |
+| [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
 ## String
 |  |
 | ------- |
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0013-roman-to-integer) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
