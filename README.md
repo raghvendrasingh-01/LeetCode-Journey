@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [1732-find-the-highest-altitude](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
