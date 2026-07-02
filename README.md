@@ -42,16 +42,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0118-pascals-triangle) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
