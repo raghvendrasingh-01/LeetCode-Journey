@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1732-find-the-highest-altitude](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
