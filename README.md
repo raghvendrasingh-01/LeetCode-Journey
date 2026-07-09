@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 ## Union-Find
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0029-divide-two-integers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
