@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [1732-find-the-highest-altitude](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0031-next-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
