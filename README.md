@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [1732-find-the-highest-altitude](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
