@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3838-weighted-word-mapping) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
