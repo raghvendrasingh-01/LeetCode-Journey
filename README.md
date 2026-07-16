@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0169-majority-element) |
+| [1331-rank-transform-of-an-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3838-weighted-word-mapping](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3838-weighted-word-mapping) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0169-majority-element) |
+| [1331-rank-transform-of-an-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0169-majority-element) |
+| [1331-rank-transform-of-an-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
