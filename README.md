@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0191-number-of-1-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
