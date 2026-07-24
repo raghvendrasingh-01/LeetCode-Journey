@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0258-add-digits) |
 | [3838-weighted-word-mapping](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
@@ -158,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
