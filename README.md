@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
