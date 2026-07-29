@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 ## Prefix Sum
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0268-missing-number) |
