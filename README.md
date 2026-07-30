@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2833-furthest-point-from-origin](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/2833-furthest-point-from-origin) |
 | [3838-weighted-word-mapping](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0169-majority-element) |
+| [2833-furthest-point-from-origin](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
