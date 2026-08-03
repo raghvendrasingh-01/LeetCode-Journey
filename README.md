@@ -96,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -183,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
