@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
