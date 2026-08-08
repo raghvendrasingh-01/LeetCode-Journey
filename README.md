@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3731-find-missing-elements) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0709-to-lower-case) |
