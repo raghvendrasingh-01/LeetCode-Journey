@@ -7,6 +7,6 @@ class Solution {
     for (Integer i=0; i<words.length; ++i)
         if (index.put(pattern.charAt(i), i) != index.put(words[i], i))
             return false;
-    return true;
+            return true;
     }
 }
