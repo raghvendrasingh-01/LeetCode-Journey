@@ -200,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0100-same-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
