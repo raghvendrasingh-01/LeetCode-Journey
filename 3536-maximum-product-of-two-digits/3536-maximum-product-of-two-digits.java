@@ -1,4 +1,4 @@
-class Solution {
+    class Solution {
     public int maxProduct(int n) {
         int max=0,secmax=0;
         while(n!=0)
@@ -13,6 +13,6 @@ class Solution {
             n/=10;
         }
         return max*secmax;
-        
     }
 }
+    
