@@ -5,8 +5,8 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         for (int num : nums) 
         {
-            min = Math.min(min, num);
             max = Math.max(max, num);
+            min = Math.min(min, num);
             set.add(num);
         }
         List<Integer> ans = new ArrayList<>();
