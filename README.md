@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0029-divide-two-integers) |
+| [0190-reverse-bits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
