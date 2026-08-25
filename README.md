@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3731-find-missing-elements) |
 ## String
 |  |
