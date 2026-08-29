@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -219,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
