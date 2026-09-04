@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
+| [3903-smallest-stable-index-i](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
