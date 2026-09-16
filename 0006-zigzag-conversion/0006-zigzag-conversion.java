@@ -8,9 +8,8 @@ public class Solution {
         for (int i = 0; i < numRows; i++) {
             for (int j = 0; j + i < n; j += cycleLen) {
                 result.append(s.charAt(j + i));
-                if (i != 0 && i != numRows - 1 && j + cycleLen - i < n) {
+                if (i != 0 && i != numRows - 1 && j + cycleLen - i < n)
                     result.append(s.charAt(j + cycleLen - i));
-                }
             }
         }
         return result.toString();
