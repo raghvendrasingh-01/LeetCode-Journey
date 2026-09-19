@@ -15,7 +15,6 @@ class Solution {
             sign = -1;
             i++;
         }
-
         int result = 0;
         while (i < n) {
             char ch = s.charAt(i);
