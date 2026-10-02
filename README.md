@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/1929-concatenation-of-array) |
 | [3838-weighted-word-mapping](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/3838-weighted-word-mapping) |
 ## Linked List
