@@ -11,19 +11,11 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode *p1 = head, *p2 = head->next;
-        while(p2 != nullptr)
+        ListNode *p1 = head, *p2 = head;
+        while(p2 != nullptr && p2->next != nullptr)
         {
-            if(p2->next != nullptr)
-            {
                 p2 = p2->next->next;
                 p1 = p1->next;
-            }
-            else
-            {
-                p2 = p2->next;
-                p1 = p1->next;
-            }
         }
         return p1;
     }
