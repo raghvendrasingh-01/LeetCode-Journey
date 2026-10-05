@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/raghvendrasingh-01/LeetCode-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Number Theory
 |  |
 | ------- |
